@@ -9,7 +9,7 @@ const Footer = () => {
 <div className="footer-container">
     <div className="left">
         <div className="location">
-            <FaHome size={20} style={{color:"#fff",marginRight:"2rem"}}/>
+            <FaHome size={20} style={{color:"#fff", marginRight:"2rem"}}/>
             <div>
                 <p>Pulchwok,Lalitpur</p>
                 <p>Nepal</p>
@@ -33,7 +33,6 @@ const Footer = () => {
 <div className="social">
 <FaFacebook size={30} style={{color:"#fff",marginRight:"1rem"}}/>
 <FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-
 <FaInstagram size={30} style={{color:"#fff",marginRight:"1rem"}}/>
 
 </div>
