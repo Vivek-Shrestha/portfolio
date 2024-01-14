@@ -1,7 +1,9 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import HeroImg from '../components/HeroImg'
+import Work from "../components/Work"
 import Footer from '../components/Footer'
+
 
 
 function Home() {
@@ -9,6 +11,7 @@ function Home() {
     <div>
       <Navbar/>
       <HeroImg/>
+      <Work/>
       <Footer/>
     </div>
   )
